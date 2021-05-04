@@ -21,6 +21,7 @@ This is achieved by pulling data from [Open Disease Data](https://disease.sh/)
 - Chartjs
 - Material-UI
 - Numeral
+- React Dom
 
 
 ## Running The Project Locally
