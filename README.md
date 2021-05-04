@@ -17,10 +17,10 @@ This is achieved by pulling data from [Open Disease Data](https://disease.sh/)
 - Can seearch countries by live cases to get the country and the total number of cases.
 
 ## Dependencies
--Leaflet
--Chartjs
--Material-UI
--Numeral
+- Leaflet
+- Chartjs
+- Material-UI
+- Numeral
 
 
 ## Running The Project Locally
